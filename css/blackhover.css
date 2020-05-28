@@ -1,0 +1,28 @@
+.et_header_style_left #et-top-navigation nav > ul > li > a,
+.et_header_style_left .et-fixed-header #et-top-navigation nav > ul > li > a {
+ padding-bottom: 15px;
+}
+#menu-primary li {
+ padding-right: 5px;
+}
+#et-top-navigation {
+ padding: 20px 0 !important;
+}
+#menu-primary li a {
+ background: none; /*** CHANGES THE BACKGROUND COLOR ***/
+ padding: 15px 20px;
+ border-radius: 3px;
+}
+#menu-primary li a:hover,
+#menu-primary li li a:hover {
+ color: #fff !important;
+}
+#menu-primary li a:hover {
+ background: #262626 !important; /*** CHANGES THE BACKGROUND COLOR ON HOVER ***/
+}
+#menu-primary li.menu-item > a {
+ background: none; /*** CHANGES THE BACKGROUND COLOR OF THE CURRENT PAGE LINK ***/
+}
+#menu-primary .menu-item > a:first-child:after {
+ content: none;
+}
