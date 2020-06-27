@@ -2,3 +2,4 @@
 # 2-Configure Divi Theme
 # 3-Secure the website
 # 4-Adding pages
+# 5-Desinging Each Page
