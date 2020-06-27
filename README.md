@@ -8,3 +8,4 @@
 # 8-Adding mini Gallery
 # 9-Adding Testimonials
 # 10-Initial Services
+# 11-Hover to icons
