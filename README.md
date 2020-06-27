@@ -7,3 +7,4 @@
 # 7-Adding Featured Articles
 # 8-Adding mini Gallery
 # 9-Adding Testimonials
+# 10-Initial Services
